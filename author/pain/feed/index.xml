@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bad Pain &#8211; RedStore</title>
+	<atom:link href="https://lenguyen17.github.io/mywordpress/author/pain/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenguyen17.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 08 May 2023 07:10:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/logo-150x55.png</url>
+	<title>Bad Pain &#8211; RedStore</title>
+	<link>https://lenguyen17.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>3 Địa điểm du lịch tham quan đẹp nhất ở Việt Nam</title>
+		<link>https://lenguyen17.github.io/mywordpress/hello/</link>
+					<comments>https://lenguyen17.github.io/mywordpress/hello/#respond</comments>
+		
+		<dc:creator><![CDATA[Bad Pain]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 07:08:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://lenguyen17.github.io/mywordpress/?p=83</guid>
+
+					<description><![CDATA[1. Sapa ❄️ Nếu có thể dùng những từ ngắn gọn để miêu tả Sapa thì chỉ có thể là tuyệt đẹp, bí ẩn và trong lành. Giới thiệu một chút về Sapa, Sapa nằm&#160;ở phía tây bắc của Tổ quốc, thuộc&#160;huyện vùng cao của tỉnh Lào Cai. Những góc nhìn tuyệt đẹp từ Sapa [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://lenguyen17.github.io/mywordpress/hello/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
