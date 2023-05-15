@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://lenguyen17.github.io/mywordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://lenguyen17.github.io/mywordpress</link>
+	<atom:link href="https://lenguyen17.github.io/mywordpress/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lenguyen17.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Mon, 17 Apr 2023 07:45:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
