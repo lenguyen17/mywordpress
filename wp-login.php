@@ -14,10 +14,10 @@
 <link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v6.4.0/css/v4-shims.css" type="text/css" media="all" integrity="sha384-TjXU13dTMPo+5ZlOUI1IGXvpmajjoetPqbUJqTx+uZ1bGwylKHNEItuVe/mg/H6l" crossorigin="anonymous">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-	<link rel="icon" href="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/logo-150x55.png" sizes="32x32">
-<link rel="icon" href="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/logo.png" sizes="192x192">
-<link rel="apple-touch-icon" href="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/logo.png">
-<meta name="msapplication-TileImage" content="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/logo.png">
+	<link rel="icon" href="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/cropped-flight_icon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/cropped-flight_icon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/cropped-flight_icon-180x180.png">
+<meta name="msapplication-TileImage" content="https://lenguyen17.github.io/mywordpress/wp-content/uploads/2023/05/cropped-flight_icon-270x270.png">
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
@@ -75,7 +75,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				</div>
 				<script type="text/javascript" id="essential-blocks-blocks-localize-js-extra">
 /* <![CDATA[ */
-var EssentialBlocksLocalize = {"eb_plugins_url":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.2","eb_version":"4.0.8","eb_admin_url":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-admin\/","rest_rootURL":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-json\/","ajax_url":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nft_nonce":"17802860f6"};
+var EssentialBlocksLocalize = {"eb_plugins_url":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-content\/plugins\/essential-blocks\/","eb_wp_version":"6.2","eb_version":"4.0.8","eb_admin_url":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-admin\/","rest_rootURL":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-json\/","ajax_url":"https:\/\/lenguyen17.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nft_nonce":"78bf79e8d1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://lenguyen17.github.io/mywordpress/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=4.0.8" id="essential-blocks-blocks-localize-js"></script>
@@ -110,7 +110,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/lenguyen_wordpress\/wp-admin\/admin-ajax
 <script type="text/javascript" src="https://lenguyen17.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"9d4e2232a3"};
+var userProfileL10n = {"user_id":"0","nonce":"1422344a43"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://lenguyen17.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.2" id="user-profile-js"></script>
