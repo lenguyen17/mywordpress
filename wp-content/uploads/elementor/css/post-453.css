@@ -75,14 +75,17 @@
     padding-left: 50px;
 }
 
-.elementor-widget-container .fa-plane{
+#footer_form_btn .fa-plane{
 				        transform: rotate(-45deg);
 				        transition: transform 0.5s;
 				    }
-.elementor-widget-container:hover .fa-plane{
+#footer_form_btn:hover .fa-plane{
 				        transform: rotate(-180deg);
 				        transition: transform 0.5s;
 				    }
-.elementor-widget-container .elementor-button:hover {
+#footer_form_btn .elementor-button:hover {
     border: solid 1px #DCBB87;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-2b3d8b65 */.b6_carousel_title {
+    font-family: 'Times New Roman';   
 }/* End custom CSS */
