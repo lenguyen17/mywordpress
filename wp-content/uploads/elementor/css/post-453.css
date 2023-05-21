@@ -83,7 +83,7 @@
 				        transform: rotate(-180deg);
 				        transition: transform 0.5s;
 				    }
-#footer_form_btn .elementor-button:hover {
+#footer_form_btn:hover {
     border: solid 1px #DCBB87;
 }/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-2b3d8b65 */.b6_carousel_title {
